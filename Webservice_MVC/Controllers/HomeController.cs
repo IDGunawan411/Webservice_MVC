@@ -65,5 +65,9 @@ namespace Webservice_MVC.Controllers
                 return View(AlbumInfo);
             }
         }
+        public ActionResult Add_Album()
+        {
+            return View();
+        }
     }
 }

@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER-IM1D695S\\source\\repos\\Webservice_MVC\\Webservice_MVC\\Webservice_MVC.csproj",
+      "projectUniqueName": "D:\\GIT\\Webservice_MVC\\Webservice_MVC\\Webservice_MVC.csproj",
       "projectName": "Webservice_MVC",
-      "projectPath": "C:\\Users\\USER-IM1D695S\\source\\repos\\Webservice_MVC\\Webservice_MVC\\Webservice_MVC.csproj",
+      "projectPath": "D:\\GIT\\Webservice_MVC\\Webservice_MVC\\Webservice_MVC.csproj",
       "packagesPath": "C:\\Users\\USER-IM1D695S\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER-IM1D695S\\source\\repos\\Webservice_MVC\\Webservice_MVC\\obj\\",
+      "outputPath": "D:\\GIT\\Webservice_MVC\\Webservice_MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER-IM1D695S\\AppData\\Roaming\\NuGet\\NuGet.Config",

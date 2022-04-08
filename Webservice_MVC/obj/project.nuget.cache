@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D6+9OuU8TQoYd3HFpH0hdOvqzGfWWCe74NdHgcOMhWwPAugaL4NDus/tmw3OxaCaj+5CLfQZba52eh0hyT2seg==",
+  "dgSpecHash": "NH/fCKHpoR5kvqiHZDcIeGlw34fRgdWYD26Nay/JTEb1DtNLat2KXzcz6+xFsUn2tVRFjuiGY0cAJrCyD/sJDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER-IM1D695S\\source\\repos\\Webservice_MVC\\Webservice_MVC\\Webservice_MVC.csproj",
+  "projectFilePath": "D:\\GIT\\Webservice_MVC\\Webservice_MVC\\Webservice_MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER-IM1D695S\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
